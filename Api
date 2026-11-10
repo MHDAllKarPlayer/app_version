@@ -20,29 +20,29 @@
       {
         "id": 1,
         "type": "facebook",
-        "img": "https://example.com/facebook.jpg",
+        "img": "https://raw.githubusercontent.com/MHDAllKarPlayer/app_version/refs/heads/main/images/IMG-acfe7bda52708e5eedbf40ccd1f6fe3d-V.jpg",
         "url": "https://www.facebook.com/share/1DFpvPzLhx/",
         "enabled": true
       },
       {
         "id": 2,
         "type": "telegram",
-        "img": "https://example.com/telegram.jpg",
+        "img": "https://raw.githubusercontent.com/MHDAllKarPlayer/app_version/refs/heads/main/images/IMG-284364d540e87ae598eb39c9516cec72-V.jpg",
         "url": "https://t.me/movies_free_trailers",
         "enabled": true
       },
       {
         "id": 3,
         "type": "review",
-        "img": "https://example.com/review.jpg",
+        "img": "https://raw.githubusercontent.com/MHDAllKarPlayer/app_version/refs/heads/main/images/IMG-990caf3fb2ef5e62be3f7e3116b6ceca-V.jpg",
         "url": "https://play.google.com/store/apps/details?id=com.ttn.mhdplayer",
         "enabled": true
       },
       {
         "id": 4,
         "type": "image",
-        "img": "https://example.com/banner.jpg",
-        "url": "",
+        "img": "https://raw.githubusercontent.com/MHDAllKarPlayer/app_version/refs/heads/main/images/IMG-4decfa9f344a24e4c25deb3977d0198e-V.jpg",
+        "url": "https://www.burmesestreamplayer.com/",
         "enabled": true
       }
     ]
